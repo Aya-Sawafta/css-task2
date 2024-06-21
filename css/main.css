@@ -1,0 +1,51 @@
+
+.iphone{
+   width: 24%;
+    float: left;
+    border: gray 1px solid;
+    margin: .5% .5% ;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
+img{
+    width: 100%;
+}
+
+.discount{
+    font-size: 22px;
+    color: green;
+}
+.original{
+    color: red;
+}
+button{
+    width: 80%;
+    float: left;
+    background-color: blue;
+    color: white; 
+}
+svg{
+    
+    width:25px;
+    height:25px
+}
+.heart {
+    width: 15%;
+    height: 34px;
+    padding: 5px;
+    border: solid 1px;
+    color: blue;
+    margin-left: 4%;
+    box-sizing: border-box;
+}
+
+.bord{
+    border: solid 1px skyblue;
+    margin: 20px;
+    padding: 20px;
+  
+}
+.clearfix{
+    clear: left;
+}
